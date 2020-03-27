@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+.Awatarstyle img{
+width:200px;
+height:300px;   
+}
+
+.mainpage{
+        widows: 90%;height:100vh;
+        text-align: center;
+        font-family: 'Gugi', cursive;
+        margin:auto;
+}
+.mainpage h1{
+   padding:20px 0   ; 
+    margin:0;
+}
+
